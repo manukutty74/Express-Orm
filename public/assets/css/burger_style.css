@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(76, 206, 193);
+}
+
+img {
+  width: 15%;
+}
+
+.red_font {
+  color: #6d1e2b;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
